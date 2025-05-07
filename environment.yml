@@ -1,0 +1,11 @@
+name: /run/media/sc22sg/Elements/uniProjectY3/hyperenv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - lftp
+  - pandas
+  - kneed
+  - tqdm
+  - scikit-image
+prefix: /run/media/sc22sg/Elements/uniProjectY3/hyperenv
